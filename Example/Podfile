@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLProfileUI_Example' do
+  pod 'HLProfileUI', :path => '../'
+
+  target 'HLProfileUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
