@@ -1,0 +1,16 @@
+PODS:
+  - HLProfileUI (0.1.0)
+
+DEPENDENCIES:
+  - HLProfileUI (from `../`)
+
+EXTERNAL SOURCES:
+  HLProfileUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLProfileUI: 8eb5fad38e852537fa46e451132b6538b1307747
+
+PODFILE CHECKSUM: 7b0df77dfdab9082a50b3493990db1ee2b1bba40
+
+COCOAPODS: 1.7.2
